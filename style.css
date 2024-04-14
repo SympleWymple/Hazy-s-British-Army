@@ -1,5 +1,5 @@
 body {
-  background-color: #454851
+  background-color: #1E212B
 }
 
 .vertical-center {
@@ -9,6 +9,15 @@ body {
   display: flex;
   align-items: center;
 }
+
+h1 {
+  color : #ffffff
+}
+
+p {
+  color : #ffffff
+}
+
 
 #road {
   height: 430px;
